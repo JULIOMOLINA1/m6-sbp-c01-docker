@@ -1,3 +1,3 @@
 ##Dockerfile con proyecto en Maven
 
-![IMAGE_capture.png](../../../../IMAGE_capture.png)
+<img src="images/IMAGE_capture.png" alt="Captura del proyecto" width="600"/>
